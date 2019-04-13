@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b64f6ee0-783e-401c-87af-47920c5bb9d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b64f6ee0-783e-401c-87af-47920c5bb9d1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -219,7 +216,7 @@
       <workItem from="1545659543646" duration="1189000" />
       <workItem from="1555162241403" duration="3209000" />
       <workItem from="1555167206117" duration="3749000" />
-      <workItem from="1555174578935" duration="47000" />
+      <workItem from="1555174578935" duration="353000" />
     </task>
     <task id="LOCAL-00001" summary="init and final - bad style">
       <created>1544520402383</created>
@@ -232,11 +229,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19361000" />
+    <option name="totallyTimeSpent" value="19667000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21443625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
